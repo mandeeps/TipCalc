@@ -3,6 +3,8 @@
 
     <string name="app_name">TipCalc</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello">Enter Your Cost and Tip Percentage</string>
+    <string name="tip">Tip This Much!</string>
+    <string name="calc">Find Tip Amount</string>
 
 </resources>
