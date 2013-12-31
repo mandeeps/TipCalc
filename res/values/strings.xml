@@ -6,5 +6,7 @@
     <string name="hello">Enter Your Cost and Tip Percentage</string>
     <string name="tip">Tip This Much!</string>
     <string name="calc">Find Tip Amount</string>
+    <string name="cost">Cost</string>
+    <string name="perc">%</string>
 
 </resources>

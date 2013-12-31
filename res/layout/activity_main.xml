@@ -29,23 +29,26 @@
         android:id="@+id/editText1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
         android:layout_below="@+id/textView1"
+        android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
         android:ems="10"
+        android:hint="@string/cost"
         android:inputType="numberDecimal" >
 
         <requestFocus />
     </EditText>
 
    <EditText
-        android:id="@+id/editText2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/editText1"
-        android:layout_centerHorizontal="true"
-        android:ems="10"
-        android:inputType="number" >
+       android:id="@+id/editText2"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_below="@+id/editText1"
+       android:layout_centerHorizontal="true"
+       android:ems="10"
+       android:hint="@string/perc"
+       android:inputType="number" >
+
     </EditText>
 
     <TextView
