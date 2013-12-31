@@ -58,6 +58,7 @@
         android:layout_below="@+id/editText2"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="18dp"
-        android:text="@string/tip" />
+        android:text="@string/tip"
+        android:textSize="22sp" />
 
 </RelativeLayout>
